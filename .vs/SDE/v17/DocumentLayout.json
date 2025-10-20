@@ -1,0 +1,634 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|c:\\users\\js06\\downloads\\ragnaroksde-master\\sde\\editor\\generic\\parsers\\generic\\dbiomethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\parsers\\generic\\dbiomethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\generic\\core\\abstractdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\core\\abstractdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|c:\\users\\js06\\downloads\\ragnaroksde-master\\sde\\editor\\generic\\parsers\\dbioitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\parsers\\dbioitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|c:\\users\\js06\\downloads\\ragnaroksde-master\\sde\\editor\\generic\\parsers\\dbiocheevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\parsers\\dbiocheevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\view\\sdeeditor.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\view\\sdeeditor.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\generic\\parsers\\generic\\dbioutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\parsers\\generic\\dbioutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\engines\\tabnavigationengine\\tabnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\engines\\tabnavigationengine\\tabnavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\view\\multigrfexplorer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\view\\multigrfexplorer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\generic\\parsers\\dbiopet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\parsers\\dbiopet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|c:\\users\\js06\\downloads\\ragnaroksde-master\\sde\\editor\\generic\\parsers\\dbiomobgroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\parsers\\dbiomobgroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|c:\\users\\js06\\downloads\\ragnaroksde-master\\sde\\editor\\generic\\parsers\\dbioclientitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\parsers\\dbioclientitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|c:\\users\\js06\\downloads\\ragnaroksde-master\\sde\\editor\\generic\\parsers\\dbioconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\parsers\\dbioconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\generic\\parsers\\dbioclientcheevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\parsers\\dbioclientcheevo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\generic\\core\\databases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\core\\databases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\generic\\parsers\\dbiocastle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\parsers\\dbiocastle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\engines\\parsers\\sqlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\engines\\parsers\\sqlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|c:\\users\\js06\\downloads\\ragnaroksde-master\\sde\\editor\\generic\\ui\\formatconverters\\customproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\ui\\formatconverters\\customproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|c:\\users\\js06\\downloads\\ragnaroksde-master\\sde\\editor\\generic\\lists\\serverenumtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\lists\\serverenumtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\generic\\lists\\serverattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\lists\\serverattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\view\\controls\\displaylabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\view\\controls\\displaylabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\view\\dialogs\\scripteditorlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\view\\dialogs\\scripteditorlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|c:\\users\\js06\\downloads\\ragnaroksde-master\\sde\\core\\avalon\\syntax\\script.xshd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\core\\avalon\\syntax\\script.xshd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\generic\\lists\\bindings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\lists\\bindings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\engines\\repairengine\\dbvalidationengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\engines\\repairengine\\dbvalidationengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\engines\\repairengine\\clientitemsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\engines\\repairengine\\clientitemsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\engines\\parsers\\itemparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\engines\\parsers\\itemparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\engines\\parsers\\itemgroupparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\engines\\parsers\\itemgroupparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\engines\\luaengine\\luahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\engines\\luaengine\\luahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\engines\\luaengine\\accessorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\engines\\luaengine\\accessorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\engines\\databaseengine\\sdedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\engines\\databaseengine\\sdedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\generic\\lists\\serverdbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\lists\\serverdbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\core\\avalon\\syntax\\debugdb.xshd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\core\\avalon\\syntax\\debugdb.xshd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\generic\\core\\dbholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\generic\\core\\dbholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\core\\avalon\\syntax\\python.xshd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\core\\avalon\\syntax\\python.xshd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\view\\sdeeditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\view\\sdeeditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\view\\sdesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\view\\sdesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\sde\\editor\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A88ED1-4219-4F6A-8D4C-3B4CFE3D2865}|SDE\\SDE.csproj|solutionrelative:sde\\editor\\projectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbIOCheevo.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOCheevo.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Parsers\\DbIOCheevo.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOCheevo.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Parsers\\DbIOCheevo.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAtwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:14:04.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbIOMethods.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\Generic\\DbIOMethods.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Parsers\\Generic\\DbIOMethods.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\Generic\\DbIOMethods.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Parsers\\Generic\\DbIOMethods.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAArwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:43:40.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbIOMobGroups.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOMobGroups.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Parsers\\DbIOMobGroups.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOMobGroups.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Parsers\\DbIOMobGroups.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAuwFkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:43:33.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbIOClientItems.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOClientItems.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Parsers\\DbIOClientItems.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOClientItems.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Parsers\\DbIOClientItems.cs",
+              "ViewState": "AgIAABcCAAAAAAAAAAAuwCACAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:43:30.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbIOConstants.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOConstants.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Parsers\\DbIOConstants.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOConstants.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Parsers\\DbIOConstants.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:43:28.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServerEnumTypes.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Lists\\ServerEnumTypes.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Lists\\ServerEnumTypes.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Lists\\ServerEnumTypes.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Lists\\ServerEnumTypes.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAnwM8BAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:18:13.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomProperties.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\UI\\FormatConverters\\CustomProperties.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\UI\\FormatConverters\\CustomProperties.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\UI\\FormatConverters\\CustomProperties.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\UI\\FormatConverters\\CustomProperties.cs",
+              "ViewState": "AgIAAHwBAAAAAAAAAAAiwJUBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T08:14:01.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbIOItems.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOItems.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Parsers\\DbIOItems.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOItems.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Parsers\\DbIOItems.cs",
+              "ViewState": "AgIAAEcDAAAAAAAAAAAvwFQDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:35:10.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Script.xshd",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Core\\Avalon\\Syntax\\Script.xshd",
+              "RelativeDocumentMoniker": "SDE\\Core\\Avalon\\Syntax\\Script.xshd",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Core\\Avalon\\Syntax\\Script.xshd",
+              "RelativeToolTip": "SDE\\Core\\Avalon\\Syntax\\Script.xshd",
+              "ViewState": "AgIAACIQAAAAAAAAAAAAADAQAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T06:24:16.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServerAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Lists\\ServerAttributes.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Lists\\ServerAttributes.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Lists\\ServerAttributes.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Lists\\ServerAttributes.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADgvy8AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:00:16.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Bindings.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Lists\\Bindings.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Lists\\Bindings.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Lists\\Bindings.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Lists\\Bindings.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAD4v6kAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:00:15.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Databases.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Core\\Databases.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Core\\Databases.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Core\\Databases.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Core\\Databases.cs",
+              "ViewState": "AgIAAJwGAAAAAAAAAAAqwKMGAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:00:06.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DbValidationEngine.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\RepairEngine\\DbValidationEngine.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Engines\\RepairEngine\\DbValidationEngine.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\RepairEngine\\DbValidationEngine.cs",
+              "RelativeToolTip": "SDE\\Editor\\Engines\\RepairEngine\\DbValidationEngine.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAawOQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:00:04.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClientItemsValidation.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\RepairEngine\\ClientItemsValidation.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Engines\\RepairEngine\\ClientItemsValidation.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\RepairEngine\\ClientItemsValidation.cs",
+              "RelativeToolTip": "SDE\\Editor\\Engines\\RepairEngine\\ClientItemsValidation.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAawC8BAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:59:52.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SqlParser.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\Parsers\\SqlParser.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Engines\\Parsers\\SqlParser.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\Parsers\\SqlParser.cs",
+              "RelativeToolTip": "SDE\\Editor\\Engines\\Parsers\\SqlParser.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:58:22.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ItemParser.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\Parsers\\ItemParser.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Engines\\Parsers\\ItemParser.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\Parsers\\ItemParser.cs",
+              "RelativeToolTip": "SDE\\Editor\\Engines\\Parsers\\ItemParser.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAWwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:58:21.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ItemGroupParser.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\Parsers\\ItemGroupParser.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Engines\\Parsers\\ItemGroupParser.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\Parsers\\ItemGroupParser.cs",
+              "RelativeToolTip": "SDE\\Editor\\Engines\\Parsers\\ItemGroupParser.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAawNwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:58:18.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LuaHelper.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\LuaEngine\\LuaHelper.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Engines\\LuaEngine\\LuaHelper.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\LuaEngine\\LuaHelper.cs",
+              "RelativeToolTip": "SDE\\Editor\\Engines\\LuaEngine\\LuaHelper.cs",
+              "ViewState": "AgIAAJ8DAAAAAAAAAAAWwKkDAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:58:14.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccessoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\LuaEngine\\AccessoryTable.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Engines\\LuaEngine\\AccessoryTable.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\LuaEngine\\AccessoryTable.cs",
+              "RelativeToolTip": "SDE\\Editor\\Engines\\LuaEngine\\AccessoryTable.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAlwO4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:58:07.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SdeDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\DatabaseEngine\\SdeDatabase.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Engines\\DatabaseEngine\\SdeDatabase.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\DatabaseEngine\\SdeDatabase.cs",
+              "RelativeToolTip": "SDE\\Editor\\Engines\\DatabaseEngine\\SdeDatabase.cs",
+              "ViewState": "AgIAAOoBAAAAAAAAAAAlwPkBAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:57:52.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbIOUtils.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\Generic\\DbIOUtils.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Parsers\\Generic\\DbIOUtils.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\Generic\\DbIOUtils.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Parsers\\Generic\\DbIOUtils.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAAABcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:53:00.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbIOPet.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOPet.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Parsers\\DbIOPet.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOPet.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Parsers\\DbIOPet.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswFgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:34:15.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DbIOCastle.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOCastle.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Parsers\\DbIOCastle.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOCastle.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Parsers\\DbIOCastle.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:34:02.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbstractDb.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Core\\AbstractDb.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Core\\AbstractDb.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Core\\AbstractDb.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Core\\AbstractDb.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:33:00.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DbHolder.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Core\\DbHolder.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Core\\DbHolder.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Core\\DbHolder.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Core\\DbHolder.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vyAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:19:44.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Python.xshd",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Core\\Avalon\\Syntax\\Python.xshd",
+              "RelativeDocumentMoniker": "SDE\\Core\\Avalon\\Syntax\\Python.xshd",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Core\\Avalon\\Syntax\\Python.xshd",
+              "RelativeToolTip": "SDE\\Core\\Avalon\\Syntax\\Python.xshd",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAewGgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T03:18:30.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DebugDb.xshd",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Core\\Avalon\\Syntax\\DebugDb.xshd",
+              "RelativeDocumentMoniker": "SDE\\Core\\Avalon\\Syntax\\DebugDb.xshd",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Core\\Avalon\\Syntax\\DebugDb.xshd",
+              "RelativeToolTip": "SDE\\Core\\Avalon\\Syntax\\DebugDb.xshd",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T03:18:24.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProjectConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\ProjectConfiguration.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\ProjectConfiguration.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\ProjectConfiguration.cs",
+              "RelativeToolTip": "SDE\\Editor\\ProjectConfiguration.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowEUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:50:57.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SdeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\View\\SDESettings.cs",
+              "RelativeDocumentMoniker": "SDE\\View\\SDESettings.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\View\\SDESettings.cs",
+              "RelativeToolTip": "SDE\\View\\SDESettings.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAUwGQBAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:49:33.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScriptEditorList.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\View\\Dialogs\\ScriptEditorList.cs",
+              "RelativeDocumentMoniker": "SDE\\View\\Dialogs\\ScriptEditorList.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\View\\Dialogs\\ScriptEditorList.cs",
+              "RelativeToolTip": "SDE\\View\\Dialogs\\ScriptEditorList.cs",
+              "ViewState": "AgIAABIOAAAAAAAAAAAAAB4OAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:24:09.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServerDbs.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Lists\\ServerDBs.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Lists\\ServerDBs.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Lists\\ServerDBs.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Lists\\ServerDBs.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwFQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:01:55.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SdeEditor.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\View\\SdeEditor.xaml.cs",
+              "RelativeDocumentMoniker": "SDE\\View\\SdeEditor.xaml.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\View\\SdeEditor.xaml.cs",
+              "RelativeToolTip": "SDE\\View\\SdeEditor.xaml.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAQwOUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:52:52.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbIOClientCheevo.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOClientCheevo.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Generic\\Parsers\\DbIOClientCheevo.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Generic\\Parsers\\DbIOClientCheevo.cs",
+              "RelativeToolTip": "SDE\\Editor\\Generic\\Parsers\\DbIOClientCheevo.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAuwLQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:01:04.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DisplayLabel.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\View\\Controls\\DisplayLabel.cs",
+              "RelativeDocumentMoniker": "SDE\\View\\Controls\\DisplayLabel.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\View\\Controls\\DisplayLabel.cs",
+              "RelativeToolTip": "SDE\\View\\Controls\\DisplayLabel.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwEMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:05:46.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TabNavigation.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\TabNavigationEngine\\TabNavigation.cs",
+              "RelativeDocumentMoniker": "SDE\\Editor\\Engines\\TabNavigationEngine\\TabNavigation.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\Editor\\Engines\\TabNavigationEngine\\TabNavigation.cs",
+              "RelativeToolTip": "SDE\\Editor\\Engines\\TabNavigationEngine\\TabNavigation.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAswL8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T01:53:56.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MultiGrfExplorer.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\View\\MultiGrfExplorer.xaml.cs",
+              "RelativeDocumentMoniker": "SDE\\View\\MultiGrfExplorer.xaml.cs",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\View\\MultiGrfExplorer.xaml.cs",
+              "RelativeToolTip": "SDE\\View\\MultiGrfExplorer.xaml.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAADwv20AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:47:47.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SdeEditor.xaml",
+              "DocumentMoniker": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\View\\SdeEditor.xaml",
+              "RelativeDocumentMoniker": "SDE\\View\\SdeEditor.xaml",
+              "ToolTip": "C:\\Users\\JS06\\Downloads\\RagnarokSDE-master\\SDE\\View\\SdeEditor.xaml",
+              "RelativeToolTip": "SDE\\View\\SdeEditor.xaml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T00:47:00.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
